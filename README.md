@@ -1,6 +1,6 @@
 # exchange-rate
 
-One Paragraph of project description goes here
+Program that finds the exchange rate in some of Uruguay's most popular exchanges.
 
 ## Getting Started
 
