@@ -234,3 +234,6 @@ else:
     print("El dolar es mas barato en RedPagos")
 
 #TODO: Don't read all the file to get last line. Get the last line instead.
+#TODO: Plot stuff.
+
+#Hey, this is my early work. It's quite sloppy.
